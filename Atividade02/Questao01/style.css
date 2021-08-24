@@ -1,0 +1,27 @@
+p{
+    color: white;
+    text-align: center;
+}
+
+.div1{
+    width: 200px;
+    height: 200px;
+    background-color: saddlebrown;
+    display: inline-block;
+}
+
+.div2{
+    width: 200px;
+    height: 200px;
+    background-color: seagreen;
+    display: inline-block;
+    margin-left: -5px;
+}
+
+.div3{
+    width: 200px;
+    height: 200px;
+    background-color: teal;
+    display: inline-block;
+    margin-left: -5px;
+}
